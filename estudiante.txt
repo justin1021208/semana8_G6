@@ -1,0 +1,7 @@
+Nombre: Justin Leandro
+Apellidos: Ruiz Madrigal
+Edad: 
+Carrera: Ingenieria De Sistemas{Nombre: Justin Leandro
+Apellidos: Ruiz Madrigal
+Edad: 17
+Carrera: Ingenieria De Sistema
